@@ -1,0 +1,2 @@
+export const RATE_INCREASE = 'RATE_UPGRADE'
+export const RATE_DECREASE = 'RATE_DECREASE'
